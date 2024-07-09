@@ -13,5 +13,7 @@ Efficiency: Reduces manual effort in handling large volumes of resumes.
 #Contents
 
 Code: Contains the machine learning model and associated scripts.
+
 Files: Sample resumes, datasets, and other necessary files.
+
 Documentation: Details about model architecture, training process, and evaluation metrics.
