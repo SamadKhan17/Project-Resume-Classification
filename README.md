@@ -1,6 +1,7 @@
 # Project-Resume-Classification
 
 #Overview
+
 This project aims to develop a robust machine learning model for automatically extracting and categorizing key information from resumes using natural language processing (NLP) techniques. The goal is to reduce manual effort in HR management processes, enhance accuracy, and streamline operations.
 
 #Features
